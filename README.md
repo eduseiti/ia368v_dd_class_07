@@ -29,7 +29,7 @@ These are the main results, obtained accross different experiments/explorations:
 
 
 |    | eval loss | nDCG@10 | |
-|----|:---: |:---: |:---: |
+| ---:|:---: |:---: |:--- |
 | 2 encoders, batch=32,<br/>higher reranking score<br/>QRELS docs only| 0.0721 | 0.5861|
 | 2 encoders, batch=32,<br/>higher reranking score | 0.0721 | 0.3187 |
 | 2 encoders, batch=32,<br/>mean reranking score | 0.0721 | 0.3197 |
