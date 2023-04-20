@@ -37,7 +37,7 @@ These are the main results, obtained accross different experiments/explorations:
 | 1 encoder, batch=32,<br/>mean reranking score<br/>200k data | 0.0495 | 0.3214 |
 | 1 encoder, batch=32,<br/>mean reranking score<br/>400k data<br/>epoch end eval | 0.0379 | 0.3310 | epoch 0 |
 | 1 encoder, batch=32,<br/>mean reranking score<br/>400k data<br/>during epoch eval | 0.0294 | 0.3104 | between epochs 1 and 2 |
-| 1 encoder, batch=32,<br/>mean reranking score<br/>400k data<br/>epoch end eval | 0.0537 | 0.3783 | epoch 2 |
+| 1 encoder, batch=32,<br/>mean reranking score<br/>400k data<br/>epoch end eval | 0.0537 | 0.3756 | epoch 2 |
 | 1 encoder, batch=128,<br/>mean reranking score<br/>400k data<br/>epoch end eval | 0.0689 | **0.3844** |
 
 <br/>
